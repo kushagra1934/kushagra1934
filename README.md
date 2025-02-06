@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Frontend Development**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Generative AI**
+- 💬 Ask me about **Machine Learning, Deep Learning, Generative AI, Backend Development**
 
 - 📫 How to reach me **kushagra.2022ug1093@iiitranchi.ac.in**
 
@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushagra1934&show_icons=true&locale=en" alt="kushagra1934" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra1934&" alt="kushagra1934" /></p>
+
+
