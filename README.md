@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kushagra Saxena</h1>
-<h3 align="center">Machine Learning enthusiast from India</h3>
+<h3 align="center">Aspiring Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra1934&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra1934" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Generative AI, Backend Development**
 
