@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Nextjs, Backend Development, Machine Learning, Deep Learning, Generative AI**
+- 💬 Ask me about **Frontend Development, Backend Development, Machine Learning, Deep Learning, Generative AI**
 
 - 📫 How to reach me **kushagra.2022ug1093@iiitranchi.ac.in**
 
